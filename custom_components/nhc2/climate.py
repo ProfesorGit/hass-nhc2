@@ -29,7 +29,7 @@ from homeassistant.components.climate.const import (
     SUPPORT_TARGET_TEMPERATURE_RANGE
 )
 
-from .coco import CoCo
+from .coco import CoCO
 from .coco_climate import CoCoThermostat
 from .coco_device_class import CoCoDeviceClass
 
